@@ -109,4 +109,12 @@
     <string name="unknownError">Unknown error</string>
     <string name="seaTemperature">Sea temperature</string>
     <string name="delete">Delete</string>
+    <string name="defcon_widget_description_text">DECONB readiness</string>
+    <string name="defcon_widget_title">DECONB WATCH</string>
+    <string name="defcon_widget_level_value">LEVEL %1$d</string>
+    <string name="defcon_widget_level_value_placeholder">LEVEL --</string>
+    <string name="defcon_widget_updated">Updated %1$s</string>
+    <string name="defcon_widget_updated_placeholder">Updated --:--</string>
+    <string name="defcon_widget_loading">Loading status…</string>
+    <string name="defcon_widget_error">Unable to reach pizza intel</string>
 </resources>

@@ -7,4 +7,9 @@
     <color name="semiTransparent">#A0EEEEEE</color>
     <color name="red">#FF0000</color>
     <color name="skyBlue">#5198FF</color>
+    <color name="defconLevel1">#FF1744</color>
+    <color name="defconLevel2">#FF9100</color>
+    <color name="defconLevel3">#FFC107</color>
+    <color name="defconLevel4">#4CAF50</color>
+    <color name="defconLevel5">#1E88E5</color>
 </resources>
